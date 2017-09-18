@@ -1,6 +1,8 @@
 Word Embeddings Benchmarks
 =====
 
+.. image:: https://travis-ci.org/kudkudak/word-embeddings-benchmarks.svg?branch=master
+
 Word Embedding Benchmark (web) package is focused on providing methods for easy evaluating and reporting
 results on common benchmarks (analogy, similarity and categorization).
 
@@ -18,7 +20,7 @@ Features:
 
 * scikit-learn API and conventions
 * 17 popular datasets
-* 8 word embeddings (word2vec, HPCA, morphoRNNLM, GloVe, HDC/PDC and others)
+* 10 word embeddings (word2vec, HPCA, morphoRNNLM, GloVe, LexVec, ConceptNet, HDC/PDC and others)
 * methods to solve analogy, similarity and categorization tasks
 
 Included datasets:
@@ -79,4 +81,5 @@ License
 =======
 Code is licensed under MIT, however available embeddings distributed within package might be under different license. If you are unsure please reach to authors (references are included in docstrings)
 
-If you use this package in your research, please cite https://arxiv.org/abs/1702.02170.
+If you use package in your work, you are welcome to cite https://arxiv.org/abs/1702.02170.
+
