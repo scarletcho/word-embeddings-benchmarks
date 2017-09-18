@@ -18,6 +18,8 @@ solve_analogy_details.py
         $ python3 solve_analogy_newmdl.py --file <embedding>
         $ python3 solve_analogy_newmdl.py --file <embedding> | tee -a "<log-filename>"
 
+Yejin Cho (scarletcho@gmail.com)
+Last updated: 2017-09-18
 """
 
 import os
