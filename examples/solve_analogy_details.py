@@ -15,8 +15,8 @@ solve_analogy_details.py
         https://arxiv.org/abs/1702.02170
 
     Usage:
-        $ python3 solve_analogy_newmdl.py --file <embedding>
-        $ python3 solve_analogy_newmdl.py --file <embedding> | tee -a "<log-filename>"
+        $ python3 solve_analogy_details.py --file <embedding>
+        $ python3 solve_analogy_details.py --file <embedding> | tee -a "<log-filename>"
 
 Yejin Cho (scarletcho@gmail.com)
 Last updated: 2017-09-18
